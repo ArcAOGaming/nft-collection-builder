@@ -24,3 +24,5 @@ pnpm-debug.log*
 
 # Wallet
 wallet.json
+
+.vscode/
