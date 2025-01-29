@@ -22,12 +22,12 @@ A template for creating and publishing TypeScript npm packages with automated Gi
 
 ## Installation
 ```bash
-npm install your-package-name
+npm install arcao-nft-collection-builder
 ```
 
 ## Usage
 ```typescript
-import { yourFunction } from "your-package-name";
+import { NFTCollectionBuilder } from "arcao-nft-collection-builder";
 
 // Add usage examples here
 ```
